@@ -59,5 +59,4 @@ As visualizações incluem:
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 - Jupyter Notebook

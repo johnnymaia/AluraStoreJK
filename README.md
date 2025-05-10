@@ -24,10 +24,10 @@ Gráfico de barras exibindo o faturamento de cada loja.
 As categorias de produtos mais vendidas foram identificadas por meio da contagem de registros, com visualização em **gráficos de pizza** para as 5 categorias mais vendidas por loja.
 
 ### 3. **Média de Avaliação das Compras**
-A média foi calculada com base na coluna `Avaliação da compra` realizada pelos clientes. Exibido em **gráfico de linhas**.
+A média foi calculada com base na coluna `Avaliação da compra`, que contém as avaliações realizadas pelos clientes. Os resultados são apresentados em um gráfico de linhas.
 
 ### 4. **Produtos Mais e Menos Vendidos**
-Foram identificados os 3 produtos mais vendidos e os 3 menos vendidos por loja.
+Foram identificados os 5 produtos mais vendidos e os 5 menos vendidos por loja.
 Visualizados com **gráficos de linhas** para os 5 mais e 5 menos vendidos.
 
 ### 5. **Frete Médio por Loja**

@@ -47,9 +47,9 @@ As visualizações incluem:
 
 ## 📈 Principais Descobertas
 
-- **Loja 4** foi a campeã de faturamento, seguida pelas lojas 1, 3 e 2.
-- As categorias de produtos mais vendidas variam por loja, mas **Utilidades domésticas** e **Acessórios para veículos** aparecem com frequência.
-- A **Loja 2** teve a **melhor avaliação média** dos clientes.
+- **Loja 1** foi a campeã de faturamento, seguida pelas lojas 2, 3 e 4.
+- As categorias de produtos mais vendidas variam por loja, mas **Móveis** e **Eletrônicos** aparecem com frequência.
+- A **Loja 3** teve a **melhor avaliação média** dos clientes.
 - Houve grande variação no frete médio entre as lojas, com a Loja 1 apresentando o valor mais alto.
 
 ---

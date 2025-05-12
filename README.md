@@ -1,4 +1,4 @@
-# 📊 Análise de Dados - Desempenho das Lojas 🛒
+# 📊 Análise de Dados - Desempenho das Lojas 
 
 Este projeto apresenta uma análise exploratória dos dados de vendas de **4 lojas** com base em arquivos CSV disponíveis publicamente no repositório da [Alura](https://github.com/alura-es-cursos/challenge1-data-science). A análise abrange diversos aspectos do desempenho das lojas, incluindo faturamento, produtos mais e menos vendidos, categorias mais populares, média de avaliação dos clientes e frete médio.
 

@@ -60,3 +60,11 @@ As visualizações incluem:
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+  
+---
+
+## Autor
+
+Desenvolvido por Johnny Maia
+
+

@@ -28,7 +28,7 @@ A média foi calculada com base na coluna `Avaliação da compra`, que contém a
 
 ### 4. **Produtos Mais e Menos Vendidos**
 Foram identificados os 5 produtos mais vendidos e os 5 menos vendidos por loja.
-Visualizados com **gráficos de linhas** para os 5 mais e 5 menos vendidos.
+Visualizados com **gráficos de linhas**.
 
 ### 5. **Frete Médio por Loja**
 Calculado com a média da coluna `Frete`, representando o custo médio de entrega por loja.
